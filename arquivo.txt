@@ -1,0 +1,3 @@
+git remote add origin https://github.com/RafaAmorim-stack/automatic-dollop.git
+git branch -M main
+git push -u origin main
